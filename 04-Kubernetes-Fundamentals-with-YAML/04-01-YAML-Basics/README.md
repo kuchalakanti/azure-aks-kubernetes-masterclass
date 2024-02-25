@@ -4,8 +4,8 @@
 - Space after colon is mandatory to differentiate key and value
 ```yml
 # Defining simple key value pairs
-name: kalyan
-age: 23
+name: Krishna
+age: 43
 city: Hyderabad
 ```
 
@@ -14,8 +14,8 @@ city: Hyderabad
 - Equal amount of blank space required for all the items under a dictionary
 ```yml
 person:
-  name: kalyan
-  age: 23
+  name: Krishna
+  age: 43
   city: Hyderabad
 ```
 
@@ -23,8 +23,8 @@ person:
 - Dash indicates an element of an array
 ```yml
 person: # Dictionary
-  name: kalyan
-  age: 23
+  name: Krishna
+  age: 43
   city: Hyderabad
   hobbies: # List  
     - cycling
@@ -36,8 +36,8 @@ person: # Dictionary
 - Dash indicates an element of an array
 ```yml
 person: # Dictionary
-  name: kalyan
-  age: 23
+  name: krishna
+  age: 43
   city: Hyderabad
   hobbies: # List  
     - cycling
