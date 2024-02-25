@@ -1,6 +1,6 @@
 # Simple Key value Pairs
 person: # Dictionary
-  name: kalyan
+  name: Krishna
   age: 23
   city: Hyderabd
   hobbies: # List
